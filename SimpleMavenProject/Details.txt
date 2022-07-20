@@ -1,5 +1,0 @@
-1) mvn archetype:generate : Creates folder structure
-
-Goals
-2) mvn clean compile exec:java
-
